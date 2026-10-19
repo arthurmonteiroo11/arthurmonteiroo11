@@ -11,7 +11,8 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/arthurmonteiroo" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" <img width="3584" height="1184" alt="banner png" src="https://github.com/user-attachments/assets/0b4520aa-7611-4d77-a6ea-fb6889e8db2c" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" 
+        src="https://github.com/user-attachments/assets/0b4520aa-7611-4d77-a6ea-fb6889e8db2c" />
     </a>
     <a href="mailto:arthur.silvamonteiro@hotmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
